@@ -1,0 +1,6 @@
+{
+  "name": "Templex on GitHub",
+  "tagline": "github.io space for TemplexMC",
+  "body": "### Welcome to Templex on GitHub\r\nThis is the upstream repository for all Templex GitHub software, plugins, etc. There's not particularly much here for standard MC users, but if you're interested in what's going on in the background with our server, feel free to peruse.\r\n\r\n### Current Projects\r\nCurrently, we are working on the following projects:\r\n - [VanillaMode](https://github.com/TemplexMC/VanillaMode) ![](https://img.shields.io/badge/type-bukkit--plugin-brightgreen.svg) ![](https://img.shields.io/badge/version-initial--development-orange.svg) ![](https://img.shields.io/badge/status-unusable-red.svg)\r\n\r\n### Contact Info\r\nYou can find our main site at [templex.ddns.net](http://templex.ddns.net/) or you can email us at [templex.mc@gmail.com](mailto:templex.mc@gmail.com). We'd love to hear suggestions and comments about what we're up to.\r\n\r\n### Authors and Contributors\r\nYou can see all of our contributors and authors on our various GitHub repositories.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
